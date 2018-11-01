@@ -6,7 +6,7 @@ import re
 <<<<<<< HEAD
 2.日韩
 =======
-2.小视频开发完成
+2.大视频开发完成
 >>>>>>> dev
 def get_html(url):
 
