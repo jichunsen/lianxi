@@ -3,10 +3,13 @@
 import requests
 import re
 1.增加
-<<<<<<< HEAD
+
 2.日韩
 =======
 2.大视频开发完成
+
+
+3.小小小视频开发完成
 >>>>>>> dev
 def get_html(url):
 
