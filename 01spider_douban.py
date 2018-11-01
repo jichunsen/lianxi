@@ -3,6 +3,7 @@
 import requests
 import re
 1.增加
+2.小视频1/2
 def get_html(url):
 
     response=requests.get(url)
