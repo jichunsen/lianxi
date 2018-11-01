@@ -2,7 +2,7 @@
 
 import requests
 import re
-
+1.增加
 def get_html(url):
 
     response=requests.get(url)
